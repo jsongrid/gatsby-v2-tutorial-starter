@@ -1,5 +1,5 @@
 ---
-path: "/post-six"
+path: "/post-seven"
 cover: "../2018-10-16/speed.jpg"
 date: "2020-10-20"
 title: "Post Number Seven"
